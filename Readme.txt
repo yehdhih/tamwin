@@ -9,4 +9,4 @@ solve 👍
 2: fonts on the landing page (main page)
 
 problems  i had :worried :
-1: i can note open  this website (https://www.seafodia.com/)
+1: i can not open  this website (https://www.seafodia.com/)
