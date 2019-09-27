@@ -12006,7 +12006,7 @@ h5,
   color: #fff;
   line-height: 1.5;
   font-weight: normal;
-  font-family: "Monoton", cursive;
+  /* font-family: "Monoton", cursive; */
   letter-spacing: 1px;
 }
 
